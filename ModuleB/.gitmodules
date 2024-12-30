@@ -1,0 +1,3 @@
+[submodule "monorepo-test.ModuleC"]
+	path = monorepo-test.ModuleC
+	url = git@github.com:yotiky/monorepo-test.ModuleC.git
